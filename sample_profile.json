@@ -5,77 +5,101 @@
     "profile": {
       "sourceFamily": "live",
       "dataId": null,
-      "liveNumericId": "1350189730",
-      "entityId": "ACoAAFB6QqIBV_g-REqr5sTEQRyiMERDOZQ_FPA",
-      "handle": "rajaubaid",
-      "profileUrl": "https://www.linkedin.com/in/rajaubaid",
-      "firstName": "Raja",
-      "lastName": "Ubaid",
-      "fullName": "Raja Ubaid",
-      "headline": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work",
-      "summary": "Cybersecurity Professional specializing in Security Operations Center (SOC) operations, threat detection, incident response, and digital forensics.✔ CEH &amp; CHFI Certified✔ Professional Experience:• Security Operations Center (SOC) Analyst at Cyberster• Monitoring and investigating security events using Wazuh SIEM• Deploying and managing Wazuh environments on Ubuntu Linux• Integrating Windows endpoints for centralized log collection and analysis• Conducting threat detection and security event investigations• Supporting incident response and forensic analysis activities• Simulating real-world attack scenarios using Kali Linux to strengthen detection capabilities✔ Technical Expertise:• SIEM: Wazuh, Splunk• Digital Forensics: Autopsy, FTK Imager• Network Security: pfSense, Suricata IDS, Wireshark• Security Assessment: Nmap, Nessus• Operating Systems: Linux &amp; Windows✔ Core Competencies:• Security Monitoring• Threat Detection &amp; Analysis• Incident Response• Threat Hunting• Log Analysis &amp; Event Correlation• Vulnerability Assessment• Security Operations (SOC)✔ Frameworks &amp; Methodologies:• MITRE ATT&amp;CK• NIST Cybersecurity Framework• Cyber Kill Chain• EDR/XDR Concepts🎯 Focused on helping organizations improve visibility, detect threats early, and strengthen their overall security posture through effective monitoring and incident response.🌍 Open to SOC Analyst, Cybersecurity Analyst, Security Analyst, Incident Response, and Blue Team opportunities.",
-      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_200_200/B4DZ.5jtqbKgAg-/0/1785524576329?e=1794441600&v=beta&t=oanmzaOE5OEGpLigYdMqim2boqa05YP8N_I5WZygin8",
+      "liveNumericId": "393163363",
+      "entityId": "ACoAABdvMmMBlUk05FIZ59u0IkcTwNkfudBGe-E",
+      "handle": "omer-11",
+      "profileUrl": "https://www.linkedin.com/in/omer-11",
+      "firstName": "Omer",
+      "lastName": "Muneer",
+      "fullName": "Omer Muneer",
+      "headline": "Backend Developer | App Security | Node.js · Python · FastAPI · Azure | Secure APIs & AI Automation | DevSecOps | CS @ SZABIST ’26",
+      "summary": "I build secure backends and AI automation workflows, with hands-on experience in API security, RBAC, and phishing threat triage.Final-year Computer Science student at SZABIST, contributing to production workflows at Venxura and building open-source security tools. I own projects end to end: design, build, deploy, harden, document.𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴• Secure Backend &amp; Cloud: Authenticated REST APIs, input sanitization, RBAC, and server hardening, deployed on Azure, Railway, and Vercel.• Defensive Security: PhishFilter, an automated threat triage tool that cross-references URLs across 70+ AV engines via VirusTotal, plus recovery of 10+ compromised servers.• AI &amp; Automation: Production AI pipelines, webhook architectures, and autonomous workflows with Node.js, Python, FastAPI, and LangGraph.𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀→ Venxura (AI SEO tool): Resolved logic and API integration bugs in Node.js AI workflows and prevented unauthorized data exposure in distributed pipelines.→ Smart Energy Monitor (IoT + AI capstone): Cloud backend with authenticated REST APIs ingesting real-time telemetry, with anti-spoofing integrity validation. [add one number here: devices, readings/min, or uptime]→ WalnutBloom: Deployed a hardened phpBB forum with strict RBAC; migrated 200+ assessment records with zero data loss, cutting re-entry time by ~81%.𝗦𝘁𝗮𝗰𝗸Python, JavaScript/TypeScript (Node.js, Express), PHP, C++, Bash, PowerShell · FastAPI, Next.js, LangGraph, n8n · Azure (SC-900 in progress), Wireshark, Burp Suite, MySQL𝗟𝗶𝘃𝗲 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗮𝗻𝗱 𝗥𝗲𝘀𝘂𝗺𝗲:🌐 https://oomer.dev💻 https://github.com/omrzgitOpen to Fullstack, Backend, DevSecOps, and Cybersecurity roles: work4omer@gmail.com",
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-scale_400_400/B4EaEVr4S8JkAg-/0/1791365190854?e=1794441600&v=beta&t=VBljFqlE7W6OLYZ4uY0zx_gJr7aEU9bQ5KFUDEnvr-s",
       "profilePictures": [
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_100_100/B4DZ.5jtqbKgAc-/0/1785524576329?e=1794441600&v=beta&t=zHo-5g9nHCfTVwGOUF4Mdqq1u0sdQo2ZVyfoMdli-_s",
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-scale_100_100/B4EaEVr4S8JkAY-/0/1791365190854?e=1794441600&v=beta&t=p_4nAHWpLhuUVIH7x4Fxo1A-X3F0XCkIuO4UMW1xhmQ",
           "width": 100,
           "height": 100
         },
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_400_400/B4DZ.5jtqbKgAk-/0/1785524576329?e=1794441600&v=beta&t=pffEUmMsUU74bI8AuGO5Jog11sRZtK03XhMaqRoU030",
-          "width": 400,
-          "height": 400
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-crop_800_800/B4DZ.5jtqbKgAM-/0/1785524576329?e=1794441600&v=beta&t=DziKCV5Ogm7gnwzNn0TLaOsCJRdHe-wn_B4je6-C-bQ",
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-crop_800_800/B4EaEVr4S8JkAI-/0/1791365190854?e=1794441600&v=beta&t=F5VkNUt0_mPwclid6D6V9DQZGTg0NdtJFqTvKGE71MA",
           "width": 800,
           "height": 800
         },
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_200_200/B4DZ.5jtqbKgAg-/0/1785524576329?e=1794441600&v=beta&t=oanmzaOE5OEGpLigYdMqim2boqa05YP8N_I5WZygin8",
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-scale_200_200/B4EaEVr4S8JkAc-/0/1791365190854?e=1794441600&v=beta&t=iHveW06K-B1pBJIZoSCOcAtARGWnaWbueSZuA1YUhW4",
           "width": 200,
           "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-scale_400_400/B4EaEVr4S8JkAg-/0/1791365190854?e=1794441600&v=beta&t=VBljFqlE7W6OLYZ4uY0zx_gJr7aEU9bQ5KFUDEnvr-s",
+          "width": 400,
+          "height": 400
         }
       ],
       "backgroundImages": [
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D16AQEcem4Udpu9HQ/profile-displaybackgroundimage-shrink_200_800/B4DZ75h0KHJwAQ-/0/1782302852407?e=1794441600&v=beta&t=2mI95mk_Q_jbW9AdsshfcYn4wxu9FW0P3b6LlSZDYbI",
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQFJGgAy8aMCag/profile-displaybackgroundimage-shrink_200_800/B4DZxg1j1DJUAU-/0/1771151181100?e=1794441600&v=beta&t=T9gexjl2bkZ2KdlxaWzYRFaNjq3d7Y9-2Ogar5nFEHI",
           "width": 800,
           "height": 200
         },
         {
-          "url": "https://media.licdn.com/dms/image/v2/D4D16AQEcem4Udpu9HQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ75h0KHJwAU-/0/1782302852407?e=1794441600&v=beta&t=l-q0ceN02cYd6O62KYbNfn5rkn-bpBvT_5Qm7VCjhe0",
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQFJGgAy8aMCag/profile-displaybackgroundimage-shrink_350_1400/B4DZxg1j1DJUAY-/0/1771151181100?e=1794441600&v=beta&t=yYu4HkhmfSUAp8_7muTkOl9T9JFwZYLwqlxeP8Lrqqs",
           "width": 1400,
           "height": 350
         }
       ],
-      "followerCount": 7004,
-      "connectionsCount": 7011,
+      "followerCount": 0,
+      "connectionsCount": 356,
       "isCreator": false,
-      "isPremium": false,
+      "isPremium": true,
       "isInfluencer": false,
-      "isOpenToWork": true,
+      "isOpenToWork": false,
       "isHiring": false,
       "geo": {
-        "city": "Punjab",
-        "full": "Punjab, Pakistan",
+        "city": "",
+        "full": "Pakistan",
         "country": "Pakistan",
         "countryCode": "pk"
       },
-      "location": "Punjab, Pakistan",
-      "geoCity": "Punjab",
-      "geoFull": "Punjab, Pakistan",
+      "location": "Pakistan",
+      "geoCity": null,
+      "geoFull": "Pakistan",
       "geoCountry": "Pakistan",
       "geoCountryCode": "pk",
       "primaryLanguage": null,
       "languages": [
         {
+          "name": "Arabic",
+          "proficiency": "ELEMENTARY"
+        },
+        {
           "name": "English",
-          "proficiency": "FULL_PROFESSIONAL"
+          "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+          "name": "French",
+          "proficiency": "ELEMENTARY"
         },
         {
           "name": "German",
           "proficiency": "LIMITED_WORKING"
+        },
+        {
+          "name": "Hindi",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "name": "Pashto",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+          "name": "Punjabi",
+          "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+          "name": "Russian",
+          "proficiency": "ELEMENTARY"
         },
         {
           "name": "Urdu",
@@ -91,24 +115,24 @@
       "multiLocaleFirstName": [
         {
           "locale": "en_US",
-          "value": "Raja"
+          "value": "Omer"
         }
       ],
       "multiLocaleLastName": [
         {
           "locale": "en_US",
-          "value": "Ubaid"
+          "value": "Muneer"
         }
       ],
       "multiLocaleHeadline": [
         {
           "locale": "en_US",
-          "value": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work"
+          "value": "Backend Developer | App Security | Node.js · Python · FastAPI · Azure | Secure APIs & AI Automation | DevSecOps | CS @ SZABIST ’26"
         }
       ],
       "industry": {
-        "entityId": "4",
-        "name": "Computer Software"
+        "entityId": "118",
+        "name": "Computer & Network Security"
       },
       "updatedAt": null,
       "currentPositions": [
@@ -126,17 +150,17 @@
           "end": null,
           "durationParsed": null,
           "organization": {
-            "id": "110128203",
-            "name": "Cyberster",
-            "url": "https://www.linkedin.com/company/cyberster/",
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+            "id": "104871259",
+            "name": "Venxura International Co.",
+            "url": "https://www.linkedin.com/company/venxura-international/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg"
           },
-          "organizationId": "110128203",
-          "organizationName": "Cyberster",
-          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
-          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
+          "organizationId": "104871259",
+          "organizationName": "Venxura International Co.",
+          "organizationUrl": "https://www.linkedin.com/company/venxura-international/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg",
           "organizationHandle": null,
-          "organizationSlug": "cyberster",
+          "organizationSlug": "venxura-international",
           "organizationIndustry": null,
           "organizationHeadcountRange": null,
           "multiLocaleTitle": null,
@@ -146,56 +170,60 @@
       ],
       "positions": [
         {
-          "title": "Security Operations Center Analyst",
+          "title": "Ai Automation & QA Intern",
           "subtitle": null,
-          "description": "• Built and managed a virtualized SOC lab using Wazuh, pfSense, and Suricata.\n• Monitored security alerts and performed threat triage.\n• Configured centralized logging for Windows endpoints.\n• Conducted packet analysis and network investigations with Wireshark.\n• Supported incident response and forensic evidence collection.\n• Simulated attack scenarios with Kali Linux to validate detection rules.\n• Mastered deep packet inspection and network protocol analysis, bridging academic knowledge with real-world applications.",
-          "employmentType": "Internship",
+          "description": "Assisted an AI-powered AEO & SEO tool mid-development after the initial build stalled due to logic and integration issues. Diagnosed root-cause bugs across core features, implemented fixes, and resolved integration gaps to get the product functional and stable. Worked hands-on with the existing codebase to improve usability and reliability ahead of release.",
+          "employmentType": "Apprenticeship",
           "location": "",
           "locationType": "",
           "duration": null,
-          "isCurrent": true,
+          "isCurrent": false,
           "isMultiPositions": null,
           "start": {
             "day": null,
-            "month": 3,
+            "month": 8,
             "year": 2026
           },
-          "end": null,
+          "end": {
+            "day": null,
+            "month": 10,
+            "year": 2026
+          },
           "durationParsed": null,
           "organization": {
-            "id": "110128203",
-            "name": "Cyberster",
-            "url": "https://www.linkedin.com/company/cyberster/",
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+            "id": "104871259",
+            "name": "Venxura International Co.",
+            "url": "https://www.linkedin.com/company/venxura-international/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg"
           },
-          "organizationId": "110128203",
-          "organizationName": "Cyberster",
-          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
-          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
-          "organizationHandle": "cyberster",
-          "organizationSlug": "cyberster",
-          "organizationIndustry": "Computer & Network Security",
-          "organizationHeadcountRange": "11 - 50",
+          "organizationId": "104871259",
+          "organizationName": "Venxura International Co.",
+          "organizationUrl": "https://www.linkedin.com/company/venxura-international/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg",
+          "organizationHandle": "venxura-international",
+          "organizationSlug": "venxura-international",
+          "organizationIndustry": "Marketing & Advertising",
+          "organizationHeadcountRange": "2 - 10",
           "multiLocaleTitle": [
             {
               "locale": "en_US",
-              "value": "Security Operations Center Analyst"
+              "value": "Ai Automation & QA Intern"
             }
           ],
           "multiLocaleOrganizationName": [
             {
               "locale": "en_US",
-              "value": "Cyberster"
+              "value": "Venxura International Co."
             }
           ],
           "skills": null
         },
         {
-          "title": "Web Developer",
+          "title": "Web Developer Intern",
           "subtitle": null,
-          "description": "",
-          "employmentType": "Freelance",
-          "location": "Pakistan",
+          "description": "Built and customized WordPress sites, adding AI chatbots and automated workflows for lead routing and email notifications.",
+          "employmentType": "Internship",
+          "location": "Islāmābād, Pakistan",
           "locationType": "",
           "duration": null,
           "isCurrent": false,
@@ -203,38 +231,185 @@
           "start": {
             "day": null,
             "month": 2,
-            "year": 2023
+            "year": 2026
           },
           "end": {
             "day": null,
-            "month": 6,
+            "month": 4,
             "year": 2026
           },
           "durationParsed": null,
           "organization": {
-            "id": "861427",
-            "name": "Fiverr",
-            "url": "https://www.linkedin.com/company/fiverr-com/",
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M"
+            "id": "87139266",
+            "name": "Reamarc.io",
+            "url": "https://www.linkedin.com/company/reamarc-io/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGweT4vX4Qggg/company-logo_400_400/company-logo_400_400/0/1684590651007/reamarc_io_logo?e=1794441600&v=beta&t=QPb3DxkexvfGI-NA_mEh2GWZqIDVqFXTHqCDmfTwt7M"
           },
-          "organizationId": "861427",
-          "organizationName": "Fiverr",
-          "organizationUrl": "https://www.linkedin.com/company/fiverr-com/",
-          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M",
-          "organizationHandle": "fiverr-com",
-          "organizationSlug": "fiverr-com",
-          "organizationIndustry": "Computer Software",
-          "organizationHeadcountRange": "501 - 1000",
+          "organizationId": "87139266",
+          "organizationName": "Reamarc.io",
+          "organizationUrl": "https://www.linkedin.com/company/reamarc-io/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D560BAQGweT4vX4Qggg/company-logo_400_400/company-logo_400_400/0/1684590651007/reamarc_io_logo?e=1794441600&v=beta&t=QPb3DxkexvfGI-NA_mEh2GWZqIDVqFXTHqCDmfTwt7M",
+          "organizationHandle": "reamarc-io",
+          "organizationSlug": "reamarc-io",
+          "organizationIndustry": "Marketing & Advertising",
+          "organizationHeadcountRange": "11 - 50",
           "multiLocaleTitle": [
             {
               "locale": "en_US",
-              "value": "Web Developer"
+              "value": "Web Developer Intern"
             }
           ],
           "multiLocaleOrganizationName": [
             {
               "locale": "en_US",
-              "value": "Fiverr"
+              "value": "Reamarc.io"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "PHP Dev Intern",
+          "subtitle": null,
+          "description": "Deployed and customized a production phpBB community forum (server configuration, plugin setup, and role-based user permissions) and migrated 200+ quiz items from iSuite to phpBB with zero data loss.",
+          "employmentType": "Contract",
+          "location": "Islāmābād, Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 5,
+            "year": 2024
+          },
+          "end": {
+            "day": null,
+            "month": 9,
+            "year": 2024
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "0",
+            "name": "WalnutBloom",
+            "url": null,
+            "logoUrl": null
+          },
+          "organizationId": "0",
+          "organizationName": "WalnutBloom",
+          "organizationUrl": "",
+          "organizationLogo": "",
+          "organizationHandle": "",
+          "organizationSlug": null,
+          "organizationIndustry": "",
+          "organizationHeadcountRange": "",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "PHP Dev Intern"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "WalnutBloom"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Web Developer Intern",
+          "subtitle": null,
+          "description": "Assisted with WordPress setup, cPanel file management, email configuration, SSL setup, and basic hosting support. They also enabled me to Gain hands-on experience with PHPMyAdmin, XAMPP, FTP tools, website migration, and client-side troubleshooting.",
+          "employmentType": "Internship",
+          "location": "Rawalpindi",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 9,
+            "year": 2018
+          },
+          "end": {
+            "day": null,
+            "month": 2,
+            "year": 2019
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "76131061",
+            "name": "Unique-Links",
+            "url": "https://www.linkedin.com/company/uniquelinks2003/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg"
+          },
+          "organizationId": "76131061",
+          "organizationName": "Unique-Links",
+          "organizationUrl": "https://www.linkedin.com/company/uniquelinks2003/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg",
+          "organizationHandle": "uniquelinks2003",
+          "organizationSlug": "uniquelinks2003",
+          "organizationIndustry": "Information Technology & Services",
+          "organizationHeadcountRange": "2 - 10",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Web Developer Intern"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Unique-Links"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Customer Care Representative",
+          "subtitle": null,
+          "description": "Handled customer support through calls and SMS, including service inquiries, sales follow-ups, and client communication. We were a team of 10 assisting with invoice handling, billing records, and basic account management more than ~1,050,000 domains using WHMCS.",
+          "employmentType": "Apprenticeship",
+          "location": "Rawalpindi, Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 11,
+            "year": 2016
+          },
+          "end": {
+            "day": null,
+            "month": 4,
+            "year": 2017
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "76131061",
+            "name": "Unique-Links",
+            "url": "https://www.linkedin.com/company/uniquelinks2003/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg"
+          },
+          "organizationId": "76131061",
+          "organizationName": "Unique-Links",
+          "organizationUrl": "https://www.linkedin.com/company/uniquelinks2003/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg",
+          "organizationHandle": "uniquelinks2003",
+          "organizationSlug": "uniquelinks2003",
+          "organizationIndustry": "Information Technology & Services",
+          "organizationHeadcountRange": "2 - 10",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Customer Care Representative"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Unique-Links"
             }
           ],
           "skills": null
@@ -242,56 +417,60 @@
       ],
       "fullPositions": [
         {
-          "title": "Security Operations Center Analyst",
+          "title": "Ai Automation & QA Intern",
           "subtitle": null,
-          "description": "• Built and managed a virtualized SOC lab using Wazuh, pfSense, and Suricata.\n• Monitored security alerts and performed threat triage.\n• Configured centralized logging for Windows endpoints.\n• Conducted packet analysis and network investigations with Wireshark.\n• Supported incident response and forensic evidence collection.\n• Simulated attack scenarios with Kali Linux to validate detection rules.\n• Mastered deep packet inspection and network protocol analysis, bridging academic knowledge with real-world applications.",
-          "employmentType": "Internship",
+          "description": "Assisted an AI-powered AEO & SEO tool mid-development after the initial build stalled due to logic and integration issues. Diagnosed root-cause bugs across core features, implemented fixes, and resolved integration gaps to get the product functional and stable. Worked hands-on with the existing codebase to improve usability and reliability ahead of release.",
+          "employmentType": "Apprenticeship",
           "location": "",
           "locationType": "",
           "duration": null,
-          "isCurrent": true,
+          "isCurrent": false,
           "isMultiPositions": null,
           "start": {
             "day": null,
-            "month": 3,
+            "month": 8,
             "year": 2026
           },
-          "end": null,
+          "end": {
+            "day": null,
+            "month": 10,
+            "year": 2026
+          },
           "durationParsed": null,
           "organization": {
-            "id": "110128203",
-            "name": "Cyberster",
-            "url": "https://www.linkedin.com/company/cyberster/",
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+            "id": "104871259",
+            "name": "Venxura International Co.",
+            "url": "https://www.linkedin.com/company/venxura-international/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg"
           },
-          "organizationId": "110128203",
-          "organizationName": "Cyberster",
-          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
-          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
-          "organizationHandle": "cyberster",
-          "organizationSlug": "cyberster",
-          "organizationIndustry": "Computer & Network Security",
-          "organizationHeadcountRange": "11 - 50",
+          "organizationId": "104871259",
+          "organizationName": "Venxura International Co.",
+          "organizationUrl": "https://www.linkedin.com/company/venxura-international/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D560BAQF5kmgThSHv5g/company-logo_400_400/company-logo_400_400/0/1729634028149?e=1794441600&v=beta&t=bb75HqQ9_AmWdI7mVE5t78togndd0mbP09w4holOFwg",
+          "organizationHandle": "venxura-international",
+          "organizationSlug": "venxura-international",
+          "organizationIndustry": "Marketing & Advertising",
+          "organizationHeadcountRange": "2 - 10",
           "multiLocaleTitle": [
             {
               "locale": "en_US",
-              "value": "Security Operations Center Analyst"
+              "value": "Ai Automation & QA Intern"
             }
           ],
           "multiLocaleOrganizationName": [
             {
               "locale": "en_US",
-              "value": "Cyberster"
+              "value": "Venxura International Co."
             }
           ],
           "skills": null
         },
         {
-          "title": "Web Developer",
+          "title": "Web Developer Intern",
           "subtitle": null,
-          "description": "",
-          "employmentType": "Freelance",
-          "location": "Pakistan",
+          "description": "Built and customized WordPress sites, adding AI chatbots and automated workflows for lead routing and email notifications.",
+          "employmentType": "Internship",
+          "location": "Islāmābād, Pakistan",
           "locationType": "",
           "duration": null,
           "isCurrent": false,
@@ -299,38 +478,185 @@
           "start": {
             "day": null,
             "month": 2,
-            "year": 2023
+            "year": 2026
           },
           "end": {
             "day": null,
-            "month": 6,
+            "month": 4,
             "year": 2026
           },
           "durationParsed": null,
           "organization": {
-            "id": "861427",
-            "name": "Fiverr",
-            "url": "https://www.linkedin.com/company/fiverr-com/",
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M"
+            "id": "87139266",
+            "name": "Reamarc.io",
+            "url": "https://www.linkedin.com/company/reamarc-io/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGweT4vX4Qggg/company-logo_400_400/company-logo_400_400/0/1684590651007/reamarc_io_logo?e=1794441600&v=beta&t=QPb3DxkexvfGI-NA_mEh2GWZqIDVqFXTHqCDmfTwt7M"
           },
-          "organizationId": "861427",
-          "organizationName": "Fiverr",
-          "organizationUrl": "https://www.linkedin.com/company/fiverr-com/",
-          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M",
-          "organizationHandle": "fiverr-com",
-          "organizationSlug": "fiverr-com",
-          "organizationIndustry": "Computer Software",
-          "organizationHeadcountRange": "501 - 1000",
+          "organizationId": "87139266",
+          "organizationName": "Reamarc.io",
+          "organizationUrl": "https://www.linkedin.com/company/reamarc-io/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D560BAQGweT4vX4Qggg/company-logo_400_400/company-logo_400_400/0/1684590651007/reamarc_io_logo?e=1794441600&v=beta&t=QPb3DxkexvfGI-NA_mEh2GWZqIDVqFXTHqCDmfTwt7M",
+          "organizationHandle": "reamarc-io",
+          "organizationSlug": "reamarc-io",
+          "organizationIndustry": "Marketing & Advertising",
+          "organizationHeadcountRange": "11 - 50",
           "multiLocaleTitle": [
             {
               "locale": "en_US",
-              "value": "Web Developer"
+              "value": "Web Developer Intern"
             }
           ],
           "multiLocaleOrganizationName": [
             {
               "locale": "en_US",
-              "value": "Fiverr"
+              "value": "Reamarc.io"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "PHP Dev Intern",
+          "subtitle": null,
+          "description": "Deployed and customized a production phpBB community forum (server configuration, plugin setup, and role-based user permissions) and migrated 200+ quiz items from iSuite to phpBB with zero data loss.",
+          "employmentType": "Contract",
+          "location": "Islāmābād, Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 5,
+            "year": 2024
+          },
+          "end": {
+            "day": null,
+            "month": 9,
+            "year": 2024
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "0",
+            "name": "WalnutBloom",
+            "url": null,
+            "logoUrl": null
+          },
+          "organizationId": "0",
+          "organizationName": "WalnutBloom",
+          "organizationUrl": "",
+          "organizationLogo": "",
+          "organizationHandle": "",
+          "organizationSlug": null,
+          "organizationIndustry": "",
+          "organizationHeadcountRange": "",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "PHP Dev Intern"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "WalnutBloom"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Web Developer Intern",
+          "subtitle": null,
+          "description": "Assisted with WordPress setup, cPanel file management, email configuration, SSL setup, and basic hosting support. They also enabled me to Gain hands-on experience with PHPMyAdmin, XAMPP, FTP tools, website migration, and client-side troubleshooting.",
+          "employmentType": "Internship",
+          "location": "Rawalpindi",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 9,
+            "year": 2018
+          },
+          "end": {
+            "day": null,
+            "month": 2,
+            "year": 2019
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "76131061",
+            "name": "Unique-Links",
+            "url": "https://www.linkedin.com/company/uniquelinks2003/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg"
+          },
+          "organizationId": "76131061",
+          "organizationName": "Unique-Links",
+          "organizationUrl": "https://www.linkedin.com/company/uniquelinks2003/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg",
+          "organizationHandle": "uniquelinks2003",
+          "organizationSlug": "uniquelinks2003",
+          "organizationIndustry": "Information Technology & Services",
+          "organizationHeadcountRange": "2 - 10",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Web Developer Intern"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Unique-Links"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Customer Care Representative",
+          "subtitle": null,
+          "description": "Handled customer support through calls and SMS, including service inquiries, sales follow-ups, and client communication. We were a team of 10 assisting with invoice handling, billing records, and basic account management more than ~1,050,000 domains using WHMCS.",
+          "employmentType": "Apprenticeship",
+          "location": "Rawalpindi, Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 11,
+            "year": 2016
+          },
+          "end": {
+            "day": null,
+            "month": 4,
+            "year": 2017
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "76131061",
+            "name": "Unique-Links",
+            "url": "https://www.linkedin.com/company/uniquelinks2003/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg"
+          },
+          "organizationId": "76131061",
+          "organizationName": "Unique-Links",
+          "organizationUrl": "https://www.linkedin.com/company/uniquelinks2003/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHS61hBZWMf3A/company-logo_400_400/B4EZoqUj1YHUAc-/0/1761646625143/uniquelinks2003_logo?e=1794441600&v=beta&t=XaHiyqHmV5E5JFBrjm9fxpniOTgrXzJShUwrUGBj7zg",
+          "organizationHandle": "uniquelinks2003",
+          "organizationSlug": "uniquelinks2003",
+          "organizationIndustry": "Information Technology & Services",
+          "organizationHeadcountRange": "2 - 10",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Customer Care Representative"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Unique-Links"
             }
           ],
           "skills": null
@@ -339,26 +665,104 @@
       "allPositions": null,
       "education": [
         {
-          "schoolName": "Government  College University, Faisalabad",
-          "schoolUrl": "https://www.linkedin.com/school/govt.-college-university-faisalabad/",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEMSWIeLzohsQ/company-logo_400_400/company-logo_400_400/0/1631330990810?e=1794441600&v=beta&t=IPtZUgfKpPvi2Yu1ct6UJ1xmXJ3wGJf5oIkGI4BqlkQ",
-          "schoolId": "326856",
-          "schoolIdV2": "15842",
+          "schoolName": "Shaheed Zulfikar Ali Bhutto Institute of Science and Technology",
+          "schoolUrl": "https://www.linkedin.com/school/szabistofficial/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFrY0t79qkjBw/company-logo_400_400/B4DZi24_AMHwAY-/0/1755415051074/szabistofficial_logo?e=1794441600&v=beta&t=ix-emF1NLGDaUfXqJRdLVME6pZjkC_IWs7__TwTI0u8",
+          "schoolId": "15095721",
+          "schoolIdV2": "15879",
           "institutionId": null,
           "degreeName": "Bachelor of Science - BS",
           "fieldOfStudy": "Computer Science",
-          "grade": "3.6 CGPA",
+          "grade": "3.14 / 4",
           "activities": "",
-          "description": "",
+          "description": "Studying core computer science subjects including programming, data structures, algorithms, databases, software engineering, operating systems, and web development.\nBuilding practical skills through academic projects, self-directed learning, and hands-on software development.",
           "start": {
             "day": null,
-            "month": 12,
+            "month": 9,
             "year": 2022
           },
           "end": {
             "day": null,
-            "month": 12,
+            "month": 8,
             "year": 2026
+          },
+          "multiLocaleSchoolName": null,
+          "multiLocaleDegreeName": null,
+          "multiLocaleFieldOfStudy": null
+        },
+        {
+          "schoolName": "The Zaheer Accademy",
+          "schoolUrl": "",
+          "schoolLogo": null,
+          "schoolId": "",
+          "schoolIdV2": "",
+          "institutionId": null,
+          "degreeName": "Alevel GCSE - CAIE",
+          "fieldOfStudy": "Pre-Engineering",
+          "grade": "",
+          "activities": "",
+          "description": "Explored Python, VB, Batch, and Bash scripting for basic automation and workflow improvement.\nStudied foundational concepts in video compression, cloud file transfer, and remote collaboration practices.\nBuilt early understanding of technical problem-solving, scripting, and digital work environments.",
+          "start": {
+            "day": null,
+            "month": null,
+            "year": 2019
+          },
+          "end": {
+            "day": null,
+            "month": null,
+            "year": 2021
+          },
+          "multiLocaleSchoolName": null,
+          "multiLocaleDegreeName": null,
+          "multiLocaleFieldOfStudy": null
+        },
+        {
+          "schoolName": "Roots IVY International",
+          "schoolUrl": "",
+          "schoolLogo": null,
+          "schoolId": "",
+          "schoolIdV2": "",
+          "institutionId": null,
+          "degreeName": "Alevel GCSE - CAIE",
+          "fieldOfStudy": "Pre-Engineering",
+          "grade": "",
+          "activities": "",
+          "description": "Created print-ready posters and basic visual designs using Adobe Photoshop and Illustrator.\nDeveloped early practical interest in digital design, presentation, and visual communication.",
+          "start": {
+            "day": null,
+            "month": null,
+            "year": 2018
+          },
+          "end": {
+            "day": null,
+            "month": null,
+            "year": 2019
+          },
+          "multiLocaleSchoolName": null,
+          "multiLocaleDegreeName": null,
+          "multiLocaleFieldOfStudy": null
+        },
+        {
+          "schoolName": "Beaconhouse",
+          "schoolUrl": "https://www.linkedin.com/school/beaconhouse-school/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEf5rF5YpJIDw/company-logo_400_400/company-logo_400_400/0/1630586089992/beaconhouse_school_logo?e=1794441600&v=beta&t=Xwg1Uoo6lVrx6jc0YYNOz1wCXkP5YmhKvnHUtKKxSh4",
+          "schoolId": "35674889",
+          "schoolIdV2": "3232150",
+          "institutionId": null,
+          "degreeName": "Olevel GCSE - CIE",
+          "fieldOfStudy": "Pre-Engineering",
+          "grade": "",
+          "activities": "",
+          "description": "Developed an early interest in cybersecurity, ethical hacking, and web technologies through self-directed learning and supervised activities.\nParticipated in awareness programs and competitions, including GSEA CSC, LearnOBots, and NR3C Cyber Scout for Cyber Awareness.\nGained foundational exposure to ethical phishing awareness, cyber safety practices, and responsible security testing concepts.",
+          "start": {
+            "day": null,
+            "month": null,
+            "year": 2005
+          },
+          "end": {
+            "day": null,
+            "month": null,
+            "year": 2018
           },
           "multiLocaleSchoolName": null,
           "multiLocaleDegreeName": null,
@@ -367,140 +771,140 @@
       ],
       "skills": [
         {
-          "name": "Security Incident Response",
+          "name": "Burp Suite",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Security Monitoring",
+          "name": "python",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Log Analysis",
+          "name": "Powershell",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Wazuh",
+          "name": "Microsoft Azure",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Cybersecurity",
+          "name": "Zapier",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Security Operations Center",
+          "name": "n8n",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Security Information and Event Management (SIEM)",
+          "name": "Collaborative Problem Solving",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Threat Detection",
+          "name": "AI for Compliance Workflows",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Incident Response",
+          "name": "Security Patch Management",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Information Security",
+          "name": "Back-End Web Development",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Digital Forensics",
+          "name": "WHMCS",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Ethical Hacking",
+          "name": "React Native",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Cyber Operations",
+          "name": "Kotlin",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Security Operations",
+          "name": "Android Coroutines",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Security Incident Management",
+          "name": "C++",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Vulnerability Assessment",
+          "name": "Embedded C",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Cyber Threat Intelligence (CTI)",
+          "name": "powershell",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Infrastructure Security",
+          "name": "Amazon Web Services (AWS)",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Incident Handling",
+          "name": "Docker",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
           "passedAssessment": null
         },
         {
-          "name": "Firewall Administration",
+          "name": "React.js",
           "normalizedName": null,
           "source": null,
           "isVerified": false,
@@ -510,114 +914,476 @@
       "certifications": [
         {
           "title": null,
-          "name": "Advance Prompt Engineering",
-          "authority": "Simplilearn",
+          "name": "Pentesting Tools & Fundamentals",
+          "authority": "Center For Cyber Security & Digital Forensics",
           "licenseNumber": null,
           "url": null,
           "start": {
             "day": null,
-            "month": 1,
+            "month": 5,
             "year": 2026
           },
           "end": null,
           "organization": {
             "id": null,
-            "name": "Simplilearn",
+            "name": "Center For Cyber Security & Digital Forensics",
             "url": null,
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGrNBFNEIlxNg/company-logo_400_400/B56ZzhMj53KYAY-/0/1773304692834/simplilearn_logo?e=1794441600&v=beta&t=G_MP3KbyiZsYZ-J0OwpeUWFE7U3xd9A4FxO7uqZb3LQ"
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGcAd_umENyzA/company-logo_400_400/B4DaDpKX8nJgAU-/0/1790618206502/ccsdf_iub_logo?e=1794441600&v=beta&t=gk8aOoE7ygGsVWePToSd9hOzDVTthEQ6oTmVCuW01zU"
           }
         },
         {
           "title": null,
-          "name": "Sql Injection Attacks",
-          "authority": "EC-Council",
+          "name": "Gen Ai Sdk (ADK)",
+          "authority": "Google Developer Groups Islamabad",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 4,
+            "year": 2025
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "Google Developer Groups Islamabad",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHWUsDb8jrCAA/company-logo_200_200/company-logo_200_200/0/1630580383660/googledevsisb_logo?e=1794441600&v=beta&t=p6WimVc8vT0-uG2d4GRgXiMJv1TswCcEAXKPmwADj3M"
+          }
+        },
+        {
+          "title": null,
+          "name": "Scaling UI/UX",
+          "authority": "Google Developer Groups Islamabad",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 3,
+            "year": 2025
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "Google Developer Groups Islamabad",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHWUsDb8jrCAA/company-logo_200_200/company-logo_200_200/0/1630580383660/googledevsisb_logo?e=1794441600&v=beta&t=p6WimVc8vT0-uG2d4GRgXiMJv1TswCcEAXKPmwADj3M"
+          }
+        },
+        {
+          "title": null,
+          "name": "Azure Cloud Fundamentals",
+          "authority": "MLSA  Chapter - SZABIST Islamabad",
           "licenseNumber": null,
           "url": null,
           "start": {
             "day": null,
             "month": 11,
-            "year": 2025
+            "year": 2024
           },
           "end": null,
           "organization": {
             "id": null,
-            "name": "EC-Council",
+            "name": "MLSA  Chapter - SZABIST Islamabad",
             "url": null,
-            "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPon7g_XjJpA/company-logo_200_200/company-logo_200_200/0/1631371916365?e=1794441600&v=beta&t=-cId8ZrpVvgoqPHWcQhPxCTgsHYQrD5CuPxl2SD07zY"
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEp6ieW4SHe7w/company-logo_200_200/company-logo_200_200/0/1694371417232/mlsa_szabist_isb_logo?e=1794441600&v=beta&t=C3ezViHL-6uHniwcXecCd5GjuBScXBPEYHlWhnNOa68"
           }
         },
         {
           "title": null,
-          "name": "Certified Ethical Hacker (CEH)",
-          "authority": "EC-Council",
+          "name": "Kotlin",
+          "authority": "PROGRAMMINGHUB",
           "licenseNumber": null,
           "url": null,
           "start": {
             "day": null,
-            "month": 9,
-            "year": 2025
-          },
-          "end": {
-            "day": null,
-            "month": 10,
-            "year": 2028
-          },
-          "organization": {
-            "id": null,
-            "name": "EC-Council",
-            "url": null,
-            "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPon7g_XjJpA/company-logo_200_200/company-logo_200_200/0/1631371916365?e=1794441600&v=beta&t=-cId8ZrpVvgoqPHWcQhPxCTgsHYQrD5CuPxl2SD07zY"
-          }
-        },
-        {
-          "title": null,
-          "name": "Certified Ethical Hacker (CEH)",
-          "authority": "National Vocational and Technical Training Commission NAVTTC",
-          "licenseNumber": null,
-          "url": null,
-          "start": {
-            "day": null,
-            "month": 7,
-            "year": 2025
+            "month": 11,
+            "year": 2023
           },
           "end": null,
           "organization": {
             "id": null,
-            "name": "National Vocational and Technical Training Commission NAVTTC",
+            "name": "PROGRAMMINGHUB",
             "url": null,
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8--xVmJPUg/company-logo_400_400/B4DZaGM9E4H4AY-/0/1746008265520/navttcofficial_logo?e=1794441600&v=beta&t=kN1fvhZWOP8ONuK8ffC7vbIl0r5zptElAHv3Icz4hvA"
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHat_1v5cGXSg/company-logo_200_200/company-logo_200_200/0/1643021219811?e=1794441600&v=beta&t=BVkrCXKLrVf7msdHGe9NbKZPoXQm5WtbbWQR93_0rZs"
           }
         },
         {
           "title": null,
-          "name": "Computer Hacking Forensic Investigator (CHFI)",
-          "authority": "National Vocational and Technical Training Commission NAVTTC",
+          "name": "S.T.E.A.M Level - 1",
+          "authority": "LearnOBots",
           "licenseNumber": null,
           "url": null,
           "start": {
             "day": null,
             "month": 7,
-            "year": 2025
+            "year": 2015
           },
           "end": null,
           "organization": {
             "id": null,
-            "name": "National Vocational and Technical Training Commission NAVTTC",
+            "name": "LearnOBots",
             "url": null,
-            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8--xVmJPUg/company-logo_400_400/B4DZaGM9E4H4AY-/0/1746008265520/navttcofficial_logo?e=1794441600&v=beta&t=kN1fvhZWOP8ONuK8ffC7vbIl0r5zptElAHv3Icz4hvA"
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQE8Wniq6Rxy7g/company-logo_400_400/B4EZkIulNSGcAY-/0/1756788053583/learnobots_logo?e=1794441600&v=beta&t=NcBzbp04EO2AI5UGCVjERyWWDj14sZ9u_oHXZrBiNCg"
+          }
+        },
+        {
+          "title": null,
+          "name": "Fundamentals of C++ Programming",
+          "authority": "CodeAcademy",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 1,
+            "year": 2013
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "CodeAcademy",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGfwaweo-VCag/company-logo_200_200/company-logo_200_200/0/1630529227913/codeacademylt_logo?e=1794441600&v=beta&t=Q4yPPmtHEO4J17XyoIlFmczM3BnIsWHyuh1fFAMpWTQ"
           }
         }
       ],
       "publications": [],
-      "volunteering": [],
+      "volunteering": [
+        {
+          "title": "Apprentice Video Editor",
+          "role": null,
+          "organizationName": "Pluto Orbit",
+          "organizationId": "7577375",
+          "organizationUrl": "https://www.linkedin.com/company/plutoorbit/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFwrRkWHoyBJw/company-logo_400_400/B4DZ5MxRCFK0AU-/0/1779404444013/plutoorbit_logo?e=1794441600&v=beta&t=i7OL64ZrfoScoFGxSgzsUtmFHGaB5F9j3wGu0OPfqK4",
+          "cause": "EDUCATION",
+          "description": "Edited YouTube and promotional videos with focus on clean cuts, sequencing, and export quality.",
+          "start": {
+            "day": null,
+            "month": 2,
+            "year": 2020
+          },
+          "end": {
+            "day": null,
+            "month": 5,
+            "year": 2021
+          },
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Apprentice Video Editor"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Pluto Orbit"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Edited YouTube and promotional videos with focus on clean cuts, sequencing, and export quality."
+            }
+          ]
+        },
+        {
+          "title": "Cyber Awareness Volunteer at (FIA) / NR3C",
+          "role": null,
+          "organizationName": "Federal Investigation Agency (FIA)",
+          "organizationId": "76743486",
+          "organizationUrl": "https://www.linkedin.com/company/fiaagencyofficial/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEOmKx_TQs-oQ/company-logo_400_400/company-logo_400_400/0/1728428017154?e=1794441600&v=beta&t=rQEETkAbaNoin2ZqzHqaHEu68EW9BGJXFOTUi_BszMs",
+          "cause": null,
+          "description": "Learned basic cybersecurity concepts including telecom risk mitigation, incident response, honeypots, and security awareness.",
+          "start": {
+            "day": null,
+            "month": 7,
+            "year": 2017
+          },
+          "end": {
+            "day": null,
+            "month": 9,
+            "year": 2017
+          },
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Cyber Awareness Volunteer at (FIA) / NR3C"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Federal Investigation Agency (FIA)"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Learned basic cybersecurity concepts including telecom risk mitigation, incident response, honeypots, and security awareness."
+            }
+          ]
+        },
+        {
+          "title": "Outside Sales Representative",
+          "role": null,
+          "organizationName": "WWF - Pakistan",
+          "organizationId": "952000",
+          "organizationUrl": "https://www.linkedin.com/company/wwf---pakistan/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH92uO1yvpnpw/company-logo_400_400/company-logo_400_400/0/1630497382639?e=1794441600&v=beta&t=T2yv8UoNiqBA13VL4DisSC3n--c52MXIBTqwjhqu9SE",
+          "cause": "ANIMAL_RIGHTS",
+          "description": "Supported public outreach and awareness activities while improving communication and field engagement skills.",
+          "start": {
+            "day": null,
+            "month": 2,
+            "year": 2015
+          },
+          "end": {
+            "day": null,
+            "month": 2,
+            "year": 2015
+          },
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Outside Sales Representative"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "WWF - Pakistan"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Supported public outreach and awareness activities while improving communication and field engagement skills."
+            }
+          ]
+        }
+      ],
       "projects": [
         {
-          "title": "SOC Labs | Wazuh SIEM | Blue Team Operations | Threat Detection",
-          "description": "• Completed a 6-week Security Operations Center (SOC) lab program.\n• Deployed and configured Wazuh SIEM for centralized log management.\n• Developed custom detection rules and analyzed Windows event logs.\n• Integrated Suricata IDS, pfSense Firewall, and VirusTotal.\n• Performed vulnerability assessments and MITRE ATT&CK mapping.\n• Simulated malware attacks, conducted threat hunting, and developed incident response procedures following NIST SP 800-61.\n• Documented every lab with technical reports and supporting evidence. ",
+          "title": "Saveon - Smart Energy Monitor - IoT + AI Capstone ",
+          "description": "Co-developed an energy management and analytics platform that combines IoT electricity-monitoring hardware, cloud storage, predictive analytics, and a mobile app to help households and institutions optimize electricity consumption.\nDesigned a secure cloud backend that ingests real-time IoT sensor data and serves authenticated REST APIs to an analytics dashboard, with threshold-based alerting and AI-driven energy optimization.",
           "url": null,
           "start": {
             "day": null,
-            "month": 3,
+            "month": 8,
+            "year": 2025
+          },
+          "end": {
+            "day": null,
+            "month": 9,
+            "year": 2026
+          },
+          "contributors": [
+            {
+              "entityId": "ACoAABdvMmMBlUk05FIZ59u0IkcTwNkfudBGe-E",
+              "firstName": "Omer",
+              "lastName": "Muneer",
+              "handle": "omer-11",
+              "headline": "Backend Developer | App Security | Node.js · Python · FastAPI · Azure | Secure APIs & AI Automation | DevSecOps | CS @ SZABIST ’26",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-crop_800_800/B4EaEVr4S8JkAI-/0/1791365190854?e=1794441600&v=beta&t=F5VkNUt0_mPwclid6D6V9DQZGTg0NdtJFqTvKGE71MA"
+            },
+            {
+              "entityId": "ACoAAFBU3W4BwAJDMAglFUigqZyOB3yxNm2UrpU",
+              "firstName": "Abdul",
+              "lastName": "Ahad",
+              "handle": "abdul-ahad-666431317",
+              "headline": "Curious AI & ML learner | Avid Coder | Future Tech Transformer | Innovation Insider  | Exploring the potentials of CS | |Graduate - Szabist’26 |",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFksL3fqmGyJg/profile-displayphoto-crop_800_800/B4DZ9QuwVqJcAI-/0/1783765862759?e=1794441600&v=beta&t=RLqG7D5weoRPAPigWr5mIB_dCGLktm_5ImZlz5RIobs"
+            },
+            {
+              "entityId": "ACoAAFIpsacB6wXm9KEBAHNYeEwNr5tWm3J2i7o",
+              "firstName": "Usman",
+              "lastName": "Masood",
+              "handle": "usman-masood-39b78a325",
+              "headline": "Web Developer & AI Automation Engineer @ Mantaq | Creating High-Performance Websites and Intelligent Automation Workflows",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFWn21uUr8CEQ/profile-displayphoto-crop_800_800/B56Zregot3LsAI-/0/1764669690667?e=1794441600&v=beta&t=35PQ2BPFJC6FxrL_iH8esnJeQHnkljSxqqjFFwmlMaw"
+            }
+          ],
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Saveon - Smart Energy Monitor - IoT + AI Capstone "
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Co-developed an energy management and analytics platform that combines IoT electricity-monitoring hardware, cloud storage, predictive analytics, and a mobile app to help households and institutions optimize electricity consumption.\nDesigned a secure cloud backend that ingests real-time IoT sensor data and serves authenticated REST APIs to an analytics dashboard, with threshold-based alerting and AI-driven energy optimization."
+            }
+          ]
+        },
+        {
+          "title": "Chess Game in C++",
+          "description": "Developed a console-based chess game in C++ using object-oriented programming concepts. Implemented board setup, player turns, legal piece movement, capture logic, check/checkmate handling, and input validation. The project demonstrates strong use of classes, inheritance, arrays, functions, and game logic design.",
+          "url": null,
+          "start": null,
+          "end": null,
+          "contributors": [
+            {
+              "entityId": "ACoAABdvMmMBlUk05FIZ59u0IkcTwNkfudBGe-E",
+              "firstName": "Omer",
+              "lastName": "Muneer",
+              "handle": "omer-11",
+              "headline": "Backend Developer | App Security | Node.js · Python · FastAPI · Azure | Secure APIs & AI Automation | DevSecOps | CS @ SZABIST ’26",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-crop_800_800/B4EaEVr4S8JkAI-/0/1791365190854?e=1794441600&v=beta&t=F5VkNUt0_mPwclid6D6V9DQZGTg0NdtJFqTvKGE71MA"
+            }
+          ],
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Chess Game in C++"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Developed a console-based chess game in C++ using object-oriented programming concepts. Implemented board setup, player turns, legal piece movement, capture logic, check/checkmate handling, and input validation. The project demonstrates strong use of classes, inheritance, arrays, functions, and game logic design."
+            }
+          ]
+        },
+        {
+          "title": "Restaurant Chatbot",
+          "description": "Built a restaurant ordering chatbot using Node.js and Express.js with WhatsApp integration through UltraMsg. Connected Google Sheets API to store and manage menu items, customer orders, and order status. Deployed the backend on Railway for live access and automated restaurant order handling.",
+          "url": null,
+          "start": null,
+          "end": null,
+          "contributors": [
+            {
+              "entityId": "ACoAABdvMmMBlUk05FIZ59u0IkcTwNkfudBGe-E",
+              "firstName": "Omer",
+              "lastName": "Muneer",
+              "handle": "omer-11",
+              "headline": "Backend Developer | App Security | Node.js · Python · FastAPI · Azure | Secure APIs & AI Automation | DevSecOps | CS @ SZABIST ’26",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFi9sle7tz9PQ/profile-displayphoto-crop_800_800/B4EaEVr4S8JkAI-/0/1791365190854?e=1794441600&v=beta&t=F5VkNUt0_mPwclid6D6V9DQZGTg0NdtJFqTvKGE71MA"
+            },
+            {
+              "entityId": "ACoAAE_KRJcBV0x-EDTGjU24-n3xuaEwBzXSreY",
+              "firstName": "Ali",
+              "lastName": "Kamal ",
+              "handle": "ali-kamal-15b391314",
+              "headline": "AI Engineer | Generative AI & LLM Developer | RAG & AI Agents | AI Automation | Software & WebApp Developer | SaaS Developer",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF5XJSdBtkLhQ/profile-displayphoto-crop_800_800/B56ZwQCiqiK4AM-/0/1769795634139?e=1794441600&v=beta&t=Ugbh6edSCpq8tPi-TbBs8K0lV4AoeHhM2MAd1IZnHQ8"
+            }
+          ],
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Restaurant Chatbot"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "Built a restaurant ordering chatbot using Node.js and Express.js with WhatsApp integration through UltraMsg. Connected Google Sheets API to store and manage menu items, customer orders, and order status. Deployed the backend on Railway for live access and automated restaurant order handling."
+            }
+          ]
+        }
+      ],
+      "patents": [],
+      "courses": [
+        {
+          "title": "Elementary C++ Programming",
+          "number": "Gohar Academy"
+        },
+        {
+          "title": "LearnObots S.T.E.A.M level - 1",
+          "number": "LearnObots"
+        },
+        {
+          "title": "Microsoft: Azure Cloud Fundamentals Certification",
+          "number": ""
+        }
+      ],
+      "honorsAndAwards": [
+        {
+          "title": "1st position National Computer Contest GSEA",
+          "issuer": "GSEA -national computer contest (Global System Educational Assessment)",
+          "date": {
+            "day": 1,
+            "month": 5,
+            "year": 2015
+          },
+          "description": "2nd position across Pakistan.\n400 students participated.\n25000 students were eligible.",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "1st position National Computer Contest GSEA"
+            }
+          ],
+          "multiLocaleIssuer": [
+            {
+              "locale": "en_US",
+              "value": "GSEA -national computer contest (Global System Educational Assessment)"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "2nd position across Pakistan.\n400 students participated.\n25000 students were eligible."
+            }
+          ]
+        },
+        {
+          "title": "Best Sound & Dramatic effects",
+          "issuer": "Pakistan National Council of Arts",
+          "date": null,
+          "description": "I can manage mainstream digital and analogue audio & signal systems and have basic knowledge of related synchronized peripherals and their compatible configurations.",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Best Sound & Dramatic effects"
+            }
+          ],
+          "multiLocaleIssuer": [
+            {
+              "locale": "en_US",
+              "value": "Pakistan National Council of Arts"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "I can manage mainstream digital and analogue audio & signal systems and have basic knowledge of related synchronized peripherals and their compatible configurations."
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Venxura International Co.",
+          "position": "",
+          "description": null,
+          "start": {
+            "day": null,
+            "month": 8,
+            "year": 2026
+          },
+          "end": {
+            "day": null,
+            "month": 10,
+            "year": 2026
+          },
+          "multiLocaleName": [
+            {
+              "locale": "en_US",
+              "value": "Venxura International Co."
+            }
+          ],
+          "multiLocalePosition": [],
+          "multiLocaleDescription": null
+        },
+        {
+          "name": "Reamarc",
+          "position": "Web Developer Intern",
+          "description": null,
+          "start": {
+            "day": null,
+            "month": 2,
             "year": 2026
           },
           "end": {
@@ -625,40 +1391,111 @@
             "month": 4,
             "year": 2026
           },
-          "contributors": [
-            {
-              "entityId": "ACoAAFB6QqIBV_g-REqr5sTEQRyiMERDOZQ_FPA",
-              "firstName": "Raja",
-              "lastName": "Ubaid",
-              "handle": "rajaubaid",
-              "headline": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work",
-              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-crop_800_800/B4DZ.5jtqbKgAM-/0/1785524576329?e=1794441600&v=beta&t=DziKCV5Ogm7gnwzNn0TLaOsCJRdHe-wn_B4je6-C-bQ"
-            }
-          ],
-          "multiLocaleTitle": [
+          "multiLocaleName": [
             {
               "locale": "en_US",
-              "value": "SOC Labs | Wazuh SIEM | Blue Team Operations | Threat Detection"
+              "value": "Reamarc"
             }
           ],
-          "multiLocaleDescription": [
+          "multiLocalePosition": [
             {
               "locale": "en_US",
-              "value": "• Completed a 6-week Security Operations Center (SOC) lab program.\n• Deployed and configured Wazuh SIEM for centralized log management.\n• Developed custom detection rules and analyzed Windows event logs.\n• Integrated Suricata IDS, pfSense Firewall, and VirusTotal.\n• Performed vulnerability assessments and MITRE ATT&CK mapping.\n• Simulated malware attacks, conducted threat hunting, and developed incident response procedures following NIST SP 800-61.\n• Documented every lab with technical reports and supporting evidence. "
+              "value": "Web Developer Intern"
             }
-          ]
+          ],
+          "multiLocaleDescription": null
+        },
+        {
+          "name": "Walnut Bloom",
+          "position": "Junior Backend Developer",
+          "description": null,
+          "start": {
+            "day": null,
+            "month": null,
+            "year": 2024
+          },
+          "end": {
+            "day": null,
+            "month": null,
+            "year": 2024
+          },
+          "multiLocaleName": [
+            {
+              "locale": "en_US",
+              "value": "Walnut Bloom"
+            }
+          ],
+          "multiLocalePosition": [
+            {
+              "locale": "en_US",
+              "value": "Junior Backend Developer"
+            }
+          ],
+          "multiLocaleDescription": null
+        },
+        {
+          "name": "Unique Links",
+          "position": "Web Developer Intern",
+          "description": null,
+          "start": {
+            "day": null,
+            "month": 11,
+            "year": 2014
+          },
+          "end": {
+            "day": null,
+            "month": 8,
+            "year": 2019
+          },
+          "multiLocaleName": [
+            {
+              "locale": "en_US",
+              "value": "Unique Links"
+            }
+          ],
+          "multiLocalePosition": [
+            {
+              "locale": "en_US",
+              "value": "Web Developer Intern"
+            }
+          ],
+          "multiLocaleDescription": null
+        },
+        {
+          "name": "NR3C (National Response Center For Cyber Crime)",
+          "position": "Intern",
+          "description": null,
+          "start": {
+            "day": null,
+            "month": 3,
+            "year": 2016
+          },
+          "end": {
+            "day": null,
+            "month": 5,
+            "year": 2018
+          },
+          "multiLocaleName": [
+            {
+              "locale": "en_US",
+              "value": "NR3C (National Response Center For Cyber Crime)"
+            }
+          ],
+          "multiLocalePosition": [
+            {
+              "locale": "en_US",
+              "value": "Intern"
+            }
+          ],
+          "multiLocaleDescription": null
         }
-      ],
-      "patents": [],
-      "courses": [],
-      "honorsAndAwards": [],
-      "organizations": []
+      ]
     },
     "page": null,
     "reportedTotal": null
   },
   "meta": {
-    "requestId": "req_f522b3a2-174e-4844-a729-4d5f75e5777b_pg_41dbc997",
+    "requestId": "req_db78e209-ce40-4b49-b0ec-978e69ff1b6e_pg_135ede59",
     "creditsCharged": 3,
     "version": "v2"
   }

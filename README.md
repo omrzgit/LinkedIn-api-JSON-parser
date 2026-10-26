@@ -1,4 +1,4 @@
-# linkedin-html
+# LinkedIn API JSON Parser
 
 Convert LinkedIn profile JSON data into viewable LinkedIn-style HTML pages.
 
