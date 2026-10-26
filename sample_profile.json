@@ -1,0 +1,665 @@
+{
+  "data": {
+    "sourceFamily": "live",
+    "lookupStatus": "found",
+    "profile": {
+      "sourceFamily": "live",
+      "dataId": null,
+      "liveNumericId": "1350189730",
+      "entityId": "ACoAAFB6QqIBV_g-REqr5sTEQRyiMERDOZQ_FPA",
+      "handle": "rajaubaid",
+      "profileUrl": "https://www.linkedin.com/in/rajaubaid",
+      "firstName": "Raja",
+      "lastName": "Ubaid",
+      "fullName": "Raja Ubaid",
+      "headline": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work",
+      "summary": "Cybersecurity Professional specializing in Security Operations Center (SOC) operations, threat detection, incident response, and digital forensics.✔ CEH &amp; CHFI Certified✔ Professional Experience:• Security Operations Center (SOC) Analyst at Cyberster• Monitoring and investigating security events using Wazuh SIEM• Deploying and managing Wazuh environments on Ubuntu Linux• Integrating Windows endpoints for centralized log collection and analysis• Conducting threat detection and security event investigations• Supporting incident response and forensic analysis activities• Simulating real-world attack scenarios using Kali Linux to strengthen detection capabilities✔ Technical Expertise:• SIEM: Wazuh, Splunk• Digital Forensics: Autopsy, FTK Imager• Network Security: pfSense, Suricata IDS, Wireshark• Security Assessment: Nmap, Nessus• Operating Systems: Linux &amp; Windows✔ Core Competencies:• Security Monitoring• Threat Detection &amp; Analysis• Incident Response• Threat Hunting• Log Analysis &amp; Event Correlation• Vulnerability Assessment• Security Operations (SOC)✔ Frameworks &amp; Methodologies:• MITRE ATT&amp;CK• NIST Cybersecurity Framework• Cyber Kill Chain• EDR/XDR Concepts🎯 Focused on helping organizations improve visibility, detect threats early, and strengthen their overall security posture through effective monitoring and incident response.🌍 Open to SOC Analyst, Cybersecurity Analyst, Security Analyst, Incident Response, and Blue Team opportunities.",
+      "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_200_200/B4DZ.5jtqbKgAg-/0/1785524576329?e=1794441600&v=beta&t=oanmzaOE5OEGpLigYdMqim2boqa05YP8N_I5WZygin8",
+      "profilePictures": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_100_100/B4DZ.5jtqbKgAc-/0/1785524576329?e=1794441600&v=beta&t=zHo-5g9nHCfTVwGOUF4Mdqq1u0sdQo2ZVyfoMdli-_s",
+          "width": 100,
+          "height": 100
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_400_400/B4DZ.5jtqbKgAk-/0/1785524576329?e=1794441600&v=beta&t=pffEUmMsUU74bI8AuGO5Jog11sRZtK03XhMaqRoU030",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-crop_800_800/B4DZ.5jtqbKgAM-/0/1785524576329?e=1794441600&v=beta&t=DziKCV5Ogm7gnwzNn0TLaOsCJRdHe-wn_B4je6-C-bQ",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-scale_200_200/B4DZ.5jtqbKgAg-/0/1785524576329?e=1794441600&v=beta&t=oanmzaOE5OEGpLigYdMqim2boqa05YP8N_I5WZygin8",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "backgroundImages": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQEcem4Udpu9HQ/profile-displaybackgroundimage-shrink_200_800/B4DZ75h0KHJwAQ-/0/1782302852407?e=1794441600&v=beta&t=2mI95mk_Q_jbW9AdsshfcYn4wxu9FW0P3b6LlSZDYbI",
+          "width": 800,
+          "height": 200
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D16AQEcem4Udpu9HQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ75h0KHJwAU-/0/1782302852407?e=1794441600&v=beta&t=l-q0ceN02cYd6O62KYbNfn5rkn-bpBvT_5Qm7VCjhe0",
+          "width": 1400,
+          "height": 350
+        }
+      ],
+      "followerCount": 7004,
+      "connectionsCount": 7011,
+      "isCreator": false,
+      "isPremium": false,
+      "isInfluencer": false,
+      "isOpenToWork": true,
+      "isHiring": false,
+      "geo": {
+        "city": "Punjab",
+        "full": "Punjab, Pakistan",
+        "country": "Pakistan",
+        "countryCode": "pk"
+      },
+      "location": "Punjab, Pakistan",
+      "geoCity": "Punjab",
+      "geoFull": "Punjab, Pakistan",
+      "geoCountry": "Pakistan",
+      "geoCountryCode": "pk",
+      "primaryLanguage": null,
+      "languages": [
+        {
+          "name": "English",
+          "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+          "name": "German",
+          "proficiency": "LIMITED_WORKING"
+        },
+        {
+          "name": "Urdu",
+          "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+      ],
+      "supportedLocales": [
+        {
+          "language": "en",
+          "country": "US"
+        }
+      ],
+      "multiLocaleFirstName": [
+        {
+          "locale": "en_US",
+          "value": "Raja"
+        }
+      ],
+      "multiLocaleLastName": [
+        {
+          "locale": "en_US",
+          "value": "Ubaid"
+        }
+      ],
+      "multiLocaleHeadline": [
+        {
+          "locale": "en_US",
+          "value": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work"
+        }
+      ],
+      "industry": {
+        "entityId": "4",
+        "name": "Computer Software"
+      },
+      "updatedAt": null,
+      "currentPositions": [
+        {
+          "title": null,
+          "subtitle": null,
+          "description": null,
+          "employmentType": null,
+          "location": null,
+          "locationType": null,
+          "duration": null,
+          "isCurrent": true,
+          "isMultiPositions": null,
+          "start": null,
+          "end": null,
+          "durationParsed": null,
+          "organization": {
+            "id": "110128203",
+            "name": "Cyberster",
+            "url": "https://www.linkedin.com/company/cyberster/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+          },
+          "organizationId": "110128203",
+          "organizationName": "Cyberster",
+          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
+          "organizationHandle": null,
+          "organizationSlug": "cyberster",
+          "organizationIndustry": null,
+          "organizationHeadcountRange": null,
+          "multiLocaleTitle": null,
+          "multiLocaleOrganizationName": null,
+          "skills": null
+        }
+      ],
+      "positions": [
+        {
+          "title": "Security Operations Center Analyst",
+          "subtitle": null,
+          "description": "• Built and managed a virtualized SOC lab using Wazuh, pfSense, and Suricata.\n• Monitored security alerts and performed threat triage.\n• Configured centralized logging for Windows endpoints.\n• Conducted packet analysis and network investigations with Wireshark.\n• Supported incident response and forensic evidence collection.\n• Simulated attack scenarios with Kali Linux to validate detection rules.\n• Mastered deep packet inspection and network protocol analysis, bridging academic knowledge with real-world applications.",
+          "employmentType": "Internship",
+          "location": "",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": true,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 3,
+            "year": 2026
+          },
+          "end": null,
+          "durationParsed": null,
+          "organization": {
+            "id": "110128203",
+            "name": "Cyberster",
+            "url": "https://www.linkedin.com/company/cyberster/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+          },
+          "organizationId": "110128203",
+          "organizationName": "Cyberster",
+          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
+          "organizationHandle": "cyberster",
+          "organizationSlug": "cyberster",
+          "organizationIndustry": "Computer & Network Security",
+          "organizationHeadcountRange": "11 - 50",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Security Operations Center Analyst"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Cyberster"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Web Developer",
+          "subtitle": null,
+          "description": "",
+          "employmentType": "Freelance",
+          "location": "Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 2,
+            "year": 2023
+          },
+          "end": {
+            "day": null,
+            "month": 6,
+            "year": 2026
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "861427",
+            "name": "Fiverr",
+            "url": "https://www.linkedin.com/company/fiverr-com/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M"
+          },
+          "organizationId": "861427",
+          "organizationName": "Fiverr",
+          "organizationUrl": "https://www.linkedin.com/company/fiverr-com/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M",
+          "organizationHandle": "fiverr-com",
+          "organizationSlug": "fiverr-com",
+          "organizationIndustry": "Computer Software",
+          "organizationHeadcountRange": "501 - 1000",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Web Developer"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Fiverr"
+            }
+          ],
+          "skills": null
+        }
+      ],
+      "fullPositions": [
+        {
+          "title": "Security Operations Center Analyst",
+          "subtitle": null,
+          "description": "• Built and managed a virtualized SOC lab using Wazuh, pfSense, and Suricata.\n• Monitored security alerts and performed threat triage.\n• Configured centralized logging for Windows endpoints.\n• Conducted packet analysis and network investigations with Wireshark.\n• Supported incident response and forensic evidence collection.\n• Simulated attack scenarios with Kali Linux to validate detection rules.\n• Mastered deep packet inspection and network protocol analysis, bridging academic knowledge with real-world applications.",
+          "employmentType": "Internship",
+          "location": "",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": true,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 3,
+            "year": 2026
+          },
+          "end": null,
+          "durationParsed": null,
+          "organization": {
+            "id": "110128203",
+            "name": "Cyberster",
+            "url": "https://www.linkedin.com/company/cyberster/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk"
+          },
+          "organizationId": "110128203",
+          "organizationName": "Cyberster",
+          "organizationUrl": "https://www.linkedin.com/company/cyberster/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFvHeu9ftvtQQ/company-logo_400_400/B4DaAfMb89KUAY-/0/1787229749269/cyberster_logo?e=1794441600&v=beta&t=_XIEAFcIJISHbSbTEutGla5U-Hz5zkNfbTPaH2wSOUk",
+          "organizationHandle": "cyberster",
+          "organizationSlug": "cyberster",
+          "organizationIndustry": "Computer & Network Security",
+          "organizationHeadcountRange": "11 - 50",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Security Operations Center Analyst"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Cyberster"
+            }
+          ],
+          "skills": null
+        },
+        {
+          "title": "Web Developer",
+          "subtitle": null,
+          "description": "",
+          "employmentType": "Freelance",
+          "location": "Pakistan",
+          "locationType": "",
+          "duration": null,
+          "isCurrent": false,
+          "isMultiPositions": null,
+          "start": {
+            "day": null,
+            "month": 2,
+            "year": 2023
+          },
+          "end": {
+            "day": null,
+            "month": 6,
+            "year": 2026
+          },
+          "durationParsed": null,
+          "organization": {
+            "id": "861427",
+            "name": "Fiverr",
+            "url": "https://www.linkedin.com/company/fiverr-com/",
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M"
+          },
+          "organizationId": "861427",
+          "organizationName": "Fiverr",
+          "organizationUrl": "https://www.linkedin.com/company/fiverr-com/",
+          "organizationLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyYjoQyL45qA/company-logo_400_400/B4EZ.GDhzbJYAU-/0/1784660499948/fiverr_com_logo?e=1794441600&v=beta&t=-N01xMl1LEWz2vicqCygvmNo3Racfi9-_ibW6Kwa_5M",
+          "organizationHandle": "fiverr-com",
+          "organizationSlug": "fiverr-com",
+          "organizationIndustry": "Computer Software",
+          "organizationHeadcountRange": "501 - 1000",
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "Web Developer"
+            }
+          ],
+          "multiLocaleOrganizationName": [
+            {
+              "locale": "en_US",
+              "value": "Fiverr"
+            }
+          ],
+          "skills": null
+        }
+      ],
+      "allPositions": null,
+      "education": [
+        {
+          "schoolName": "Government  College University, Faisalabad",
+          "schoolUrl": "https://www.linkedin.com/school/govt.-college-university-faisalabad/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEMSWIeLzohsQ/company-logo_400_400/company-logo_400_400/0/1631330990810?e=1794441600&v=beta&t=IPtZUgfKpPvi2Yu1ct6UJ1xmXJ3wGJf5oIkGI4BqlkQ",
+          "schoolId": "326856",
+          "schoolIdV2": "15842",
+          "institutionId": null,
+          "degreeName": "Bachelor of Science - BS",
+          "fieldOfStudy": "Computer Science",
+          "grade": "3.6 CGPA",
+          "activities": "",
+          "description": "",
+          "start": {
+            "day": null,
+            "month": 12,
+            "year": 2022
+          },
+          "end": {
+            "day": null,
+            "month": 12,
+            "year": 2026
+          },
+          "multiLocaleSchoolName": null,
+          "multiLocaleDegreeName": null,
+          "multiLocaleFieldOfStudy": null
+        }
+      ],
+      "skills": [
+        {
+          "name": "Security Incident Response",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Security Monitoring",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Log Analysis",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Wazuh",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Cybersecurity",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Security Operations Center",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Security Information and Event Management (SIEM)",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Threat Detection",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Incident Response",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Information Security",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Digital Forensics",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Ethical Hacking",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Cyber Operations",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Security Operations",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Security Incident Management",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Vulnerability Assessment",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Cyber Threat Intelligence (CTI)",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Infrastructure Security",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Incident Handling",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        },
+        {
+          "name": "Firewall Administration",
+          "normalizedName": null,
+          "source": null,
+          "isVerified": false,
+          "passedAssessment": null
+        }
+      ],
+      "certifications": [
+        {
+          "title": null,
+          "name": "Advance Prompt Engineering",
+          "authority": "Simplilearn",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 1,
+            "year": 2026
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "Simplilearn",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGrNBFNEIlxNg/company-logo_400_400/B56ZzhMj53KYAY-/0/1773304692834/simplilearn_logo?e=1794441600&v=beta&t=G_MP3KbyiZsYZ-J0OwpeUWFE7U3xd9A4FxO7uqZb3LQ"
+          }
+        },
+        {
+          "title": null,
+          "name": "Sql Injection Attacks",
+          "authority": "EC-Council",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 11,
+            "year": 2025
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "EC-Council",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPon7g_XjJpA/company-logo_200_200/company-logo_200_200/0/1631371916365?e=1794441600&v=beta&t=-cId8ZrpVvgoqPHWcQhPxCTgsHYQrD5CuPxl2SD07zY"
+          }
+        },
+        {
+          "title": null,
+          "name": "Certified Ethical Hacker (CEH)",
+          "authority": "EC-Council",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 9,
+            "year": 2025
+          },
+          "end": {
+            "day": null,
+            "month": 10,
+            "year": 2028
+          },
+          "organization": {
+            "id": null,
+            "name": "EC-Council",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQHPon7g_XjJpA/company-logo_200_200/company-logo_200_200/0/1631371916365?e=1794441600&v=beta&t=-cId8ZrpVvgoqPHWcQhPxCTgsHYQrD5CuPxl2SD07zY"
+          }
+        },
+        {
+          "title": null,
+          "name": "Certified Ethical Hacker (CEH)",
+          "authority": "National Vocational and Technical Training Commission NAVTTC",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 7,
+            "year": 2025
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "National Vocational and Technical Training Commission NAVTTC",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8--xVmJPUg/company-logo_400_400/B4DZaGM9E4H4AY-/0/1746008265520/navttcofficial_logo?e=1794441600&v=beta&t=kN1fvhZWOP8ONuK8ffC7vbIl0r5zptElAHv3Icz4hvA"
+          }
+        },
+        {
+          "title": null,
+          "name": "Computer Hacking Forensic Investigator (CHFI)",
+          "authority": "National Vocational and Technical Training Commission NAVTTC",
+          "licenseNumber": null,
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 7,
+            "year": 2025
+          },
+          "end": null,
+          "organization": {
+            "id": null,
+            "name": "National Vocational and Technical Training Commission NAVTTC",
+            "url": null,
+            "logoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQFS8--xVmJPUg/company-logo_400_400/B4DZaGM9E4H4AY-/0/1746008265520/navttcofficial_logo?e=1794441600&v=beta&t=kN1fvhZWOP8ONuK8ffC7vbIl0r5zptElAHv3Icz4hvA"
+          }
+        }
+      ],
+      "publications": [],
+      "volunteering": [],
+      "projects": [
+        {
+          "title": "SOC Labs | Wazuh SIEM | Blue Team Operations | Threat Detection",
+          "description": "• Completed a 6-week Security Operations Center (SOC) lab program.\n• Deployed and configured Wazuh SIEM for centralized log management.\n• Developed custom detection rules and analyzed Windows event logs.\n• Integrated Suricata IDS, pfSense Firewall, and VirusTotal.\n• Performed vulnerability assessments and MITRE ATT&CK mapping.\n• Simulated malware attacks, conducted threat hunting, and developed incident response procedures following NIST SP 800-61.\n• Documented every lab with technical reports and supporting evidence. ",
+          "url": null,
+          "start": {
+            "day": null,
+            "month": 3,
+            "year": 2026
+          },
+          "end": {
+            "day": null,
+            "month": 4,
+            "year": 2026
+          },
+          "contributors": [
+            {
+              "entityId": "ACoAAFB6QqIBV_g-REqr5sTEQRyiMERDOZQ_FPA",
+              "firstName": "Raja",
+              "lastName": "Ubaid",
+              "handle": "rajaubaid",
+              "headline": "SOC Analyst | CEH | CHFI Certified | Digital Forensics | Wazuh | Splunk | SIEM | Incident Response | Threat Detection | Open to Work",
+              "profilePictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEsY3y8MTGTgw/profile-displayphoto-crop_800_800/B4DZ.5jtqbKgAM-/0/1785524576329?e=1794441600&v=beta&t=DziKCV5Ogm7gnwzNn0TLaOsCJRdHe-wn_B4je6-C-bQ"
+            }
+          ],
+          "multiLocaleTitle": [
+            {
+              "locale": "en_US",
+              "value": "SOC Labs | Wazuh SIEM | Blue Team Operations | Threat Detection"
+            }
+          ],
+          "multiLocaleDescription": [
+            {
+              "locale": "en_US",
+              "value": "• Completed a 6-week Security Operations Center (SOC) lab program.\n• Deployed and configured Wazuh SIEM for centralized log management.\n• Developed custom detection rules and analyzed Windows event logs.\n• Integrated Suricata IDS, pfSense Firewall, and VirusTotal.\n• Performed vulnerability assessments and MITRE ATT&CK mapping.\n• Simulated malware attacks, conducted threat hunting, and developed incident response procedures following NIST SP 800-61.\n• Documented every lab with technical reports and supporting evidence. "
+            }
+          ]
+        }
+      ],
+      "patents": [],
+      "courses": [],
+      "honorsAndAwards": [],
+      "organizations": []
+    },
+    "page": null,
+    "reportedTotal": null
+  },
+  "meta": {
+    "requestId": "req_f522b3a2-174e-4844-a729-4d5f75e5777b_pg_41dbc997",
+    "creditsCharged": 3,
+    "version": "v2"
+  }
+}
