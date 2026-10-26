@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+test_output.html
+output.html
+profile.html
